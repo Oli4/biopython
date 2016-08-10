@@ -1,0 +1,14 @@
+# target name        accession      query name           accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#-------------------     ---------- -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+NW_014013612         NW_014013612.1 04_Crypto_CCR_nuc    -              341     415   57956   58027   57946   58047   65830    +         4.2    7.9   3.5  Monoraphidium neglectum strain SAG 48.87 unplaced genomic scaffold
+
+#
+# Program:         nhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/olivier/query/nuc/04_CCR_Crypto_nuc.hmm
+# Target file:     /home/olivier/db/GCF_000611645.1_mono_v1_genomic.gbff
+# Option settings: nhmmer -o /dev/null --tblout nhmmer/tab_31b2_nhmmer_002.out --cpu 3 /home/olivier/query/nuc/04_CCR_Crypto_nuc.hmm /home/olivier/db/GCF_000611645.1_mono_v1_genomic.gbff 
+# Current dir:     /home/olivier
+# Date:            Tue Aug  9 14:14:28 2016
+# [ok]

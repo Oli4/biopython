@@ -33,6 +33,9 @@ tab_30_hmmscan_002.out      single query, no match
 tab_30_hmmscan_003.out      single query, one match, one hsp per match
 tab_30_hmmscan_004.out      single query, multiple matches, one hsp per match
 tab_31b1_hmmsearch_001.out  single query, multiple matches, one hsp per match
+tab_31b2_nhmmer_001.out     single query, no match
+tab_31b2_nhmmer_002.out     single query, one match
+tab_31b2_nhmmer_003.out     single query, multiple matches
 
 domtab_31b1_hmmscan_001.out     multiple queries
 domtab_30_hmmscan_001.out       multiple queries, hmm as hit

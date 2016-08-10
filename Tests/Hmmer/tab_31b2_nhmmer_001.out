@@ -1,0 +1,12 @@
+# target name        accession  query name           accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+#
+# Program:         nhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/olivier/query/nuc/05_Crypto_nuc.hmm
+# Target file:     /home/olivier/db/GCA_000569095.1_NagaB31_1.0_genomic.gbff
+# Option settings: nhmmer -o /dev/null --tblout nhmmer/tab_31b2_nhmmer_001.out --cpu 2 /home/olivier/query/nuc/05_Crypto_nuc.hmm /home/olivier/db/GCA_000569095.1_NagaB31_1.0_genomic.gbff 
+# Current dir:     /home/olivier
+# Date:            Tue Aug  9 14:54:08 2016
+# [ok]

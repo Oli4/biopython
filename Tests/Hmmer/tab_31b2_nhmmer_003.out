@@ -1,0 +1,22 @@
+# target name        accession  query name           accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+KN805367             KN805367.1 05_Crypto_nuc    -              345     604  189483  189248  189504  189228 7821234    -       0.061   15.0   7.3  Trebouxia gelatinosa isolate LA000220 unplaced genomic scaffold
+
+KN805270             KN805270.1 05_Crypto_nuc    -              207     282   63374   63451   63354   63471  119576    +        0.17   13.6   0.0  Trebouxia gelatinosa isolate LA000220 unplaced genomic scaffold
+
+KN805341             KN805341.1 05_Crypto_nuc    -              215     383  820723  820895  820716  820902 1739233    +         1.9   10.1   1.0  Trebouxia gelatinosa isolate LA000220 unplaced genomic scaffold
+
+KN805366             KN805366.1 05_Crypto_nuc    -              420     531  984274  984163  984294  984149 2227659    -         2.9    9.5   2.5  Trebouxia gelatinosa isolate LA000220 unplaced genomic scaffold
+
+KN805357             KN805357.1 05_Crypto_nuc    -              251     353  770997  770882  771009  770862 2011944    -           6    8.4   1.1  Trebouxia gelatinosa isolate LA000220 unplaced genomic scaffold
+
+#
+# Program:         nhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/olivier/query/nuc/05_Crypto_nuc.hmm
+# Target file:     /home/olivier/db/GCA_000818905.1_ASM81890v1_genomic.gbff
+# Option settings: nhmmer -o /dev/null --tblout nhmmer/tab_31b2_nhmmer_003.out --cpu 3 /home/olivier/query/nuc/05_Crypto_nuc.hmm /home/olivier/db/GCA_000818905.1_ASM81890v1_genomic.gbff 
+# Current dir:     /home/olivier
+# Date:            Tue Aug  9 14:59:12 2016
+# [ok]
